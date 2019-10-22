@@ -1,0 +1,8 @@
+{
+  "short_name": "Political Crowd Funding",
+  "name": "Political Crowd Funding",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
